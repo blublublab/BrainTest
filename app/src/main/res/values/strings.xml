@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Brain Test</string>
+    <string name="correct_toast_text">Верно</string>
+    <string name="wrong_toast_text">Не верно</string>
+</resources>
